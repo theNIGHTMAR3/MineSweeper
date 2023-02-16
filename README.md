@@ -1,2 +1,2 @@
 # MineSweeper
-My implementation of minesweeper
+My implementation of the MineSweeper game
